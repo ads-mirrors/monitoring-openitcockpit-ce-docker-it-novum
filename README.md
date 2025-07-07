@@ -16,7 +16,7 @@ To get started with openITCOCKPIT Community Edition using Docker, follow these s
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/it-novum/openITCOCKPIT-ce-docker.git
+   git clone https://github.com/openITCOCKPIT/openITCOCKPIT-ce-docker.git
    ```
 
 2. Navigate to the cloned repository:
@@ -87,7 +87,7 @@ If you encounter any issues or have questions regarding openITCOCKPIT Community 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request in this repository.
 
-Bugs or issues related to openITCOCKPIT itself should be created in the corresponding repository: https://github.com/it-novum/openITCOCKPIT
+Bugs or issues related to openITCOCKPIT itself should be created in the corresponding repository: https://github.com/openITCOCKPIT/openITCOCKPIT
 
 
 ## Support
