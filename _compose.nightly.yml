@@ -263,7 +263,7 @@ services:
     volumes:
       - naemon-var:/opt/openitc/nagios/var                                  # oitc.cmd
       - checkmk-agents:/opt/omd/sites/nagios/version/share/check_mk/agents
-      - checkmk-etc:/omd/sites/nagios/etc/check_mk
+      - checkmk-etc:/omd/sites/nagios/etc/check_mk:ro
       - checkmk-var:/omd/sites/nagios/var/check_mk
     deploy:
       restart_policy:
